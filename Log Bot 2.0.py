@@ -745,4 +745,4 @@ async def on_message(message):
             await bot.process_commands(message)
 
 if __name__ == '__main__':
-    bot.run('ODA3NTE3NTY0NTM1NzAxNTA0.YB5JVg.SX52fS0gzieNw0AI5LdJuyI87fA')
+    bot.run('token')
